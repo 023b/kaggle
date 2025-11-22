@@ -39,3 +39,8 @@ This project is ready for **Streamlit Community Cloud**.
 3. **Safety**: Validates actions.
 4. **Remediator**: Fixes the issue.
 5. **Auditor**: Manages tickets.
+
+Screenshots
+
+
+![Dashboard Overview](https://github.com/023b/kaggle/blob/47a0010ecef6cb249326685acdc2f50c11ad4fc5/Reliability%20Command%20Center%20%C2%B7%20Streamlit_page-0001.jpg)
